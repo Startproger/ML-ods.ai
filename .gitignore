@@ -1,0 +1,5 @@
+data/raw/
+data/processed/
+submission.csv
+*.pyc
+__pycache__/
